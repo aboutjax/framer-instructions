@@ -1,5 +1,6 @@
 # framer-instructions
 An unofficial shared module for [Framer Studio](http://framerjs.com/)
+This shared module adds the ability to add your own instructions for your prototype viewers.
 
 # Instructions
 1. Drop `framer-instructions.coffee` in the modules directory of your Framer project. This requires Framer Studio v1.11.1 or higher.
